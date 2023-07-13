@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.foot{
+  text-align: center;
+  font-size: 20px;
+  /* background-color: aliceblue; */
+}
+
+body{
+  background-color: rgb(213, 223, 232);
+  overflow-y: hidden;
+}
